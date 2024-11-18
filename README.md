@@ -5,7 +5,7 @@
 # Languages
 [![My Languages](https://skillicons.dev/icons?i=py,docker,go,r,js,c,cs,cpp,scala,rust,java,haskell&perline=12)](https://skillicons.dev)
 # Tech 
-[![My Tech](https://skillicons.dev/icons?i=dotnet,fastap,ts,react,nodejs,svelte,kubernetes,tensorflow,pytorch,sklearn,solidity,redhat,kali,npm,matlab,kafka,jenkins&perline=17)](https://skillicons.dev)
+[![My Tech](https://skillicons.dev/icons?i=dotnet,fastapi,ts,react,nodejs,svelte,kubernetes,tensorflow,pytorch,sklearn,solidity,redhat,kali,npm,matlab,kafka,jenkins&perline=17)](https://skillicons.dev)
 # Databases
 [![My Database](https://skillicons.dev/icons?i=dynamodb,sqlite,redis,postgres,mysql,mongodb,jquery,graphql&perline=8)](https://skillicons.dev)
 # System
