@@ -3,15 +3,14 @@
 
 
 # 💻Tech Stack
-[![My Clouds](https://skillicons.dev/icons?i=aws,gcp,azure,azulcloudflare)](https://skillicons.dev)
-[![My Tools](https://skillicons.dev/icons?i=cloudflare,terraform)](https://skillicons.dev)
-[![My Languages](https://skillicons.dev/icons?i=py,docker,go,r,js,c,cs,cpp,scala,rust,java,haskell)](https://skillicons.dev)
-[![My Tech](https://skillicons.dev/icons?i=dotnet,fastap,ts,react,nodejs,svelte,tensorflow,pytorch,sklearn,solidity,redhat,kali,npm,matlab,kafka,hadoop,jenkins)](https://skillicons.dev)
-[![My Database](https://skillicons.dev/icons?i=dynamodb,sqlite,redis,postgres,mysql,mongodb,jquery,graphql)](https://skillicons.dev)
-[![My OS](https://skillicons.dev/icons?i=bash,ubuntu,linux)](https://skillicons.dev)
-[![My Git](https://skillicons.dev/icons?i=gitlab,github,git)](https://skillicons.dev)
-[![My DevOps](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-[![My IDE](https://skillicons.dev/icons?i=sublime,vscode)](https://skillicons.dev)
+[![My Clouds](https://skillicons.dev/icons?i=aws,gcp,azure,azul&perline=4)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=cloudflare,terraform&perline=2)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=py,docker,go,r,js,c,cs,cpp,scala,rust,java,haskell&perline=12)](https://skillicons.dev)
+[![My Tech](https://skillicons.dev/icons?i=dotnet,fastap,ts,react,nodejs,svelte,kubernetes,tensorflow,pytorch,sklearn,solidity,redhat,kali,npm,matlab,kafka,jenkins&perline=17)](https://skillicons.dev)
+[![My Database](https://skillicons.dev/icons?i=dynamodb,sqlite,redis,postgres,mysql,mongodb,jquery,graphql&perline=8)](https://skillicons.dev)
+[![My OS](https://skillicons.dev/icons?i=ubuntu,linux&perline=2)](https://skillicons.dev)
+[![My Git](https://skillicons.dev/icons?i=gitlab,github,git&perline=3)](https://skillicons.dev)
+[![My IDE](https://skillicons.dev/icons?i=sublime,vscode&perline=2)](https://skillicons.dev)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Dyu20705&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dyu20705&theme=radical&hide_border=false)<br/>
