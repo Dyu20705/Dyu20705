@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyu20705" alt="dyu20705" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nothing" target="blank"><img src="https://img.shields.io/twitter/follow/nothing?logo=twitter&style=for-the-badge" alt="nothing" /></a> </p>
+<p align="left"> <a href="https://twitter.com/van_duy12643" target="blank"><img src="https://img.shields.io/twitter/follow/van_duy12643?logo=twitter&style=for-the-badge" alt="nothing" /></a> </p>
 
-- 🔭 I’m currently working on [Nothing](https://github.com/Dyu20705)
+- 🔭 I’m currently working on [Jail](https://www.nps.gov/alca/index.htm)
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning System Engineering
 
 - 👯 I’m looking to collaborate on [Myself](https://github.com/Dyu20705)
 
@@ -31,12 +31,12 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nothing" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nothing" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nothing" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nothing" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nothing" height="30" width="40" /></a>
 <a href="https://discord.gg/Nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nothing" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nothing" height="30" width="40" /></a>
 <a href="/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nothing" height="30" width="40" /></a>
 </p>
 <h3 align="left">My Tools</h3>
 <p align="left"> 
