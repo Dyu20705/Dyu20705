@@ -23,7 +23,7 @@
   
 - 📫 How to reach me **duy20072005@gmail.com**
   
-- 📄 Know about my experiences [https://github.com/Dyu20705](https://github.com/Dyu20705)
+- 📄 Know about my experiences [MyCV]([https://github.com/Dyu20705](https://docs.google.com/document/d/1HAAlDh0KJMZb6JP0yKv3qbUeEp3Tc4oeUDwVvdT8SOU/edit?usp=sharing))
   
 - ⚡ Fun fact **Eggs came first. In evolutionary terms, egg-laying species existed long before chickens evolved. The first true chicken likely hatched from an egg laid by a bird that wasn’t quite a chicken, meaning that eggs were around long before the modern chicken appeared.**
   
