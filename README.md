@@ -30,13 +30,13 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nothing" height="30" width="40" /></a>
-<a href="https://discord.gg/Nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nothing" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nothing" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nothing" height="30" width="40" /></a>
-<a href="/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nothing" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nothing" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/duynguyenvan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://discord.gg/DKR9Hzq9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nothing" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Dyu20705/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27902412/duy-nguy%e1%bb%85n-v%c4%83n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://dashboard.rss.com/podcasts/hello-world-pod2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/d2435acxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nothing" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@halc20705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nothing" height="30" width="40" /></a>
 </p>
 <h3 align="left">My Tools</h3>
 <p align="left"> 
