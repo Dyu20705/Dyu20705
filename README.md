@@ -70,8 +70,7 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
-<br>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a><br> 
   Database <br>
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
 <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> 
@@ -91,22 +90,22 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
 </p>
-<br>
-<h3 align="left">Support:</h3>
+<h3 align="left">Achievement:</h3>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyu20705&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="150" style="margin: 10px;" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyu20705&" alt="GitHub Streak Stats" width="300" height="300" style="margin: 10px;" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=dyu20705&show_icons=true&locale=en" alt="GitHub Stats" width="300" height="150" style="margin: 10px;" />
+    </td>
+  </tr>
+</table>
 
-<p>
-<a href="https://www.buymeacoffee.com/Nothing"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nothing" /></a>
-<a href="https://ko-fi.com/Nothing"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Nothing" /></a>
-</p>
-<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyu20705&show_icons=true&locale=en&layout=compact" alt="dyu20705" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyu20705&show_icons=true&locale=en" alt="dyu20705" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyu20705&" alt="dyu20705" /></p>
 
 
