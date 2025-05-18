@@ -48,6 +48,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/> </a>
 <a href="https://ziglang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="40" height="40"/> </a>
+<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="julia" width="40" height="40"/> </a>
 
 <h4 align="left">Tech</h4>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="nvim" width="40" height="40"/> </a>
