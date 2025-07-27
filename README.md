@@ -1,5 +1,5 @@
 <h1 align="center">ヤハロー 👋,　私は ﾕｲ　です。どうぞ よろしくお願いします</h1>
-<h3 align="center">A guy </h3>
+<h3 align="center">A guy who is teaching himself a little bit about blockchain games </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyu20705&label=Profile%20views&color=0e75b6&style=flat" alt="dyu20705" /> </p>
 
@@ -47,19 +47,17 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/> </a>
-<a href="https://ziglang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="40" height="40"/> </a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="julia" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/html5up/html5up-icon.svg" alt="h5u" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a>
+<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="haskell" width="40" height="40"/> </a>
 
 <h4 align="left">Tech</h4>
-<a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40"/> </a>
+<a href="https://vi.wikipedia.org/wiki/Ethereum" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="eth" width="40" height="40"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
 
 <h4 align="left">Researching</h4>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40"/> </a>
