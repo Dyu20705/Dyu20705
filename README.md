@@ -1,5 +1,5 @@
 <h1 align="center">ヤハロー 👋,　私は ﾕｲ　です。どうぞ よろしくお願いします</h1>
-<h3 align="center">A guy who is teaching himself a little bit about blockchain games </h3>
+<h3 align="center">A guy who is teaching himself a little bit about  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyu20705&label=Profile%20views&color=0e75b6&style=flat" alt="dyu20705" /> </p>
 
