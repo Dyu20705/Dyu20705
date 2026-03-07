@@ -17,20 +17,29 @@ Computer Science student from Vietnam, focused on building practical software an
 - Email: `duy20072005@gmail.com`
 - CV: [View CV](https://docs.google.com/document/d/1HAAlDh0KJMZb6JP0yKv3qbUeEp3Tc4oeUDwVvdT8SOU/edit?usp=sharing)
 
-## Interests
+## Quick navigation
 
-- Software engineering and clean code practices
-- Full-stack web development
-- Problem solving and algorithmic thinking
-- Building products that solve daily, real-world problems
+- Recruiters: [30-second profile (EN)](#30-second-profile-en) -> [Project highlights](#project-highlights) -> [Connect](#connect)
+- Developers: [Tech stack](#tech-stack) -> [Project highlights](#project-highlights) -> [GitHub stats](#github-stats)
+- Vietnamese readers: [Ho so 30 giay (VI)](#ho-so-30-giay-vi)
 
-## Current learning
+## 30-second profile (EN)
 
-- Strengthening core data structures and algorithms
-- Improving TypeScript/JavaScript development workflows
-- Practicing collaboration through team-based projects
+- Who I am: Computer Science student in Vietnam, building toward ML Systems/Data Engineering roles.
+- Current focus: Python-first ML systems, data pipelines, and production-oriented software engineering.
+- Learning now: Prefect now; Airflow planned for Jun-Aug; improving system design and implementation quality.
+- Building: Practical projects and portfolio repositories that show end-to-end execution.
+- Open to: Internship/junior opportunities in ML Engineering, Data Engineering, or Backend SWE.
 
-## Projects
+## Ho so 30 giay (VI)
+
+- Tôi là ai: Sinh viên CNTT tại Việt Nam, đang định hướng ML Systems/Data Engineering.
+- Đang tập trung: Xây dựng hệ thống ML theo hướng Python-first, data pipeline, và kỹ thuật phần mềm hướng production.
+- Đang học: Prefect trước; Airflow giai đoạn tháng 6-8; tiếp tục nâng cao system design và chất lượng implementation.
+- Đang xây dựng: Các dự án thực tế và portfolio repository thể hiện khả năng làm end-to-end.
+- Mục tiêu: Cơ hội internship/junior cho ML Engineer, Data Engineer, hoặc Backend SWE.
+
+## Project highlights
 
 - [oasis-lab](https://github.com/Dyu20705/oasis-lab)
   TypeScript-based project focused on practical product development.
@@ -41,27 +50,79 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 
 ## Tech stack
 
-### Languages
+### Core languages
 
-<p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/html5up/html5up-icon.svg" alt="html" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" /></a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="haskell" width="40" height="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
+![MoonBit](https://img.shields.io/badge/MoonBit-111827?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java_(SWE_services)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Tools and frameworks
+### ML and data frameworks
 
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" /></a>
-</p>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-priority-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Data processing and storage
+
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Polars](https://img.shields.io/badge/Polars-1F6FEB?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Google Cloud Storage](https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-0F172A?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+### MLOps and feature platform
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Feast](https://img.shields.io/badge/Feast-0B7285?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-326CE5?style=for-the-badge)
+![Triton Inference Server](https://img.shields.io/badge/Triton_Inference_Server-76B900?style=for-the-badge)
+![Envoy](https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
+
+### Orchestration and workflow
+
+![Prefect](https://img.shields.io/badge/Prefect-current_priority-024DFD?style=for-the-badge)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-Jun--Aug_plan-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Argo](https://img.shields.io/badge/Argo_Workflows-FF6A00?style=for-the-badge)
+
+### Infrastructure and runtime
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![kind](https://img.shields.io/badge/kind-3C78D8?style=for-the-badge)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EKS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Observability and operations
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+
+### Delivery and platform workflow
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ## Connect
 
@@ -75,9 +136,9 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 ## GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyu20705&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyu20705" alt="GitHub Streak Stats" width="300" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dyu20705&show_icons=true&locale=en" alt="GitHub Stats" width="300" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyu20705&layout=compact&hide_border=true&cache_seconds=7200" alt="Top Languages" width="300" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Dyu20705&hide_border=true" alt="GitHub Streak Stats" width="300" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dyu20705&show_icons=true&hide_border=true&cache_seconds=7200" alt="GitHub Stats" width="300" height="150" />
 </p>
 
 <p>
@@ -89,3 +150,4 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 
 
 
+\
