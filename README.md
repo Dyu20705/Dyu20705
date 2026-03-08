@@ -1,6 +1,6 @@
 # Hi, I'm Duy Nguyen Van
 
-Computer Science student from Vietnam, focused on building practical software and improving engineering fundamentals through hands-on projects.
+Computer Science student from Vietnam. I build practical software projects and focus on writing clean, reliable code.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=dyu20705&label=Profile%20views&color=0e75b6&style=flat" alt="dyu20705" />
@@ -25,24 +25,24 @@ Computer Science student from Vietnam, focused on building practical software an
 
 ## 30-second profile (EN)
 
-- Who I am: Computer Science student in Vietnam, building toward ML Systems/Data Engineering roles.
-- Current focus: Python-first ML systems, data pipelines, and production-oriented software engineering.
-- Learning now: Prefect now; Airflow planned for Jun-Aug; improving system design and implementation quality.
-- Building: Practical projects and portfolio repositories that show end-to-end execution.
-- Open to: Internship/junior opportunities in ML Engineering, Data Engineering, or Backend SWE.
+- Who I am: CS student in Vietnam, interested in ML Systems and Data Engineering.
+- Current focus: Python-based ML systems, data pipelines, and backend engineering fundamentals.
+- Learning now: Prefect now, Airflow planned for Jun-Aug, plus system design practice.
+- Building: End-to-end projects and portfolio repositories with working implementations.
+- Open to: Internship/junior roles in ML Engineering, Data Engineering, or Backend SWE.
 
 ## Ho so 30 giay (VI)
 
-- Tôi là ai: Sinh viên CNTT tại Việt Nam, đang định hướng ML Systems/Data Engineering.
-- Đang tập trung: Xây dựng hệ thống ML theo hướng Python-first, data pipeline, và kỹ thuật phần mềm hướng production.
-- Đang học: Prefect trước; Airflow giai đoạn tháng 6-8; tiếp tục nâng cao system design và chất lượng implementation.
-- Đang xây dựng: Các dự án thực tế và portfolio repository thể hiện khả năng làm end-to-end.
-- Mục tiêu: Cơ hội internship/junior cho ML Engineer, Data Engineer, hoặc Backend SWE.
+- Tôi là ai: Sinh viên CNTT tại Việt Nam, định hướng ML Systems và Data Engineering.
+- Đang tập trung: Hệ thống ML với Python, data pipeline, và nền tảng backend.
+- Đang học: Prefect hiện tại, Airflow dự kiến tháng 6-8, đồng thời rèn luyện thêm system design.
+- Đang xây dựng: Các dự án end-to-end có thể chạy thực tế để làm portfolio.
+- Mục tiêu: Vị trí internship/junior cho ML Engineer, Data Engineer, hoặc Backend SWE.
 
 ## Project highlights
 
 - [oasis-lab](https://github.com/Dyu20705/oasis-lab)
-  TypeScript-based project focused on practical product development.
+  TypeScript project focused on practical product development.
 - [SmartSpender](https://github.com/Minh08012005/SmartSpender)
   Team project for personal expense management.
 
