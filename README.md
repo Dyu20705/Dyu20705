@@ -54,9 +54,6 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
-![MoonBit](https://img.shields.io/badge/MoonBit-111827?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java_(SWE_services)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### ML and data frameworks
 
