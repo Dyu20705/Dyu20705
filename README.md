@@ -29,7 +29,7 @@ Computer Science student from Vietnam. I build practical software projects and f
 - Current focus: Python-based ML systems, data pipelines, and backend engineering fundamentals.
 - Learning now: Prefect now, Airflow planned for Jun-Aug, plus system design practice.
 - Building: End-to-end projects and portfolio repositories with working implementations.
-- Open to: Internship/junior roles in ML Engineering, Data Engineering, or Backend SWE.
+- Open to: Internship/junior roles in ML Engineering, Data Engineering.
 
 ## Ho so 30 giay (VI)
 
@@ -37,7 +37,7 @@ Computer Science student from Vietnam. I build practical software projects and f
 - Đang tập trung: Hệ thống ML với Python, data pipeline, và nền tảng backend.
 - Đang học: Prefect hiện tại, Airflow dự kiến tháng 6-8, đồng thời rèn luyện thêm system design.
 - Đang xây dựng: Các dự án end-to-end có thể chạy thực tế để làm portfolio.
-- Mục tiêu: Vị trí internship/junior cho ML Engineer, Data Engineer, hoặc Backend SWE.
+- Mục tiêu: Vị trí internship/junior cho ML Engineer, Data Engineer.
 
 ## Project highlights
 
@@ -54,6 +54,7 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+[![language R](https://img.shields.io/badge/language-R-blue?logo=R&style=for-the-badge)](https://www.r-project.org/)
 
 ### ML and data frameworks
 
