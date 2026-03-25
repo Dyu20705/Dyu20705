@@ -17,28 +17,6 @@ Computer Science student from Vietnam. I build practical software projects and f
 - Email: `duy20072005@gmail.com`
 - CV: [View CV](https://docs.google.com/document/d/1HAAlDh0KJMZb6JP0yKv3qbUeEp3Tc4oeUDwVvdT8SOU/edit?usp=sharing)
 
-## Quick navigation
-
-- Recruiters: [30-second profile (EN)](#30-second-profile-en) -> [Project highlights](#project-highlights) -> [Connect](#connect)
-- Developers: [Tech stack](#tech-stack) -> [Project highlights](#project-highlights) -> [GitHub stats](#github-stats)
-- Vietnamese readers: [Ho so 30 giay (VI)](#ho-so-30-giay-vi)
-
-## 30-second profile (EN)
-
-- Who I am: CS student in Vietnam, interested in ML Systems and Data Engineering.
-- Current focus: Python-based ML systems, data pipelines, and backend engineering fundamentals.
-- Learning now: Prefect now, Airflow planned for Jun-Aug, plus system design practice.
-- Building: End-to-end projects and portfolio repositories with working implementations.
-- Open to: Internship/junior roles in ML Engineering, Data Engineering.
-
-## Ho so 30 giay (VI)
-
-- Tôi là ai: Sinh viên CNTT tại Việt Nam, định hướng ML Systems và Data Engineering.
-- Đang tập trung: Hệ thống ML với Python, data pipeline, và nền tảng backend.
-- Đang học: Prefect hiện tại, Airflow dự kiến tháng 6-8, đồng thời rèn luyện thêm system design.
-- Đang xây dựng: Các dự án end-to-end có thể chạy thực tế để làm portfolio.
-- Mục tiêu: Vị trí internship/junior cho ML Engineer, Data Engineer.
-
 ## Project highlights
 
 - [oasis-lab](https://github.com/Dyu20705/oasis-lab)
