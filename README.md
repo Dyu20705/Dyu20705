@@ -119,13 +119,11 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 ## GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyu20705&layout=compact&hide_border=true&cache_seconds=7200" alt="Top Languages" width="300" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dyu20705&theme=github" alt="Top Languages by Repo" width="300" height="150" />
   <img src="https://streak-stats.demolab.com?user=Dyu20705&hide_border=true" alt="GitHub Streak Stats" width="300" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dyu20705&show_icons=true&hide_border=true&cache_seconds=7200" alt="GitHub Stats" width="300" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dyu20705&theme=github" alt="GitHub Stats" width="300" height="150" />
 </p>
 
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dyu20705" alt="dyu20705" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyu20705&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </p>
