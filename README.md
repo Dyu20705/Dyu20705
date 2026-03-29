@@ -1,12 +1,9 @@
-# Hi, I'm Duy Nguyen Van
+# Hi there 👋 😊, I'm Duy Nguyen Van
 
 Computer Science student from Vietnam. I focus on practical software, clean architecture, and reliable delivery.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=dyu20705&label=Profile%20views&color=0e75b6&style=flat" alt="dyu20705" />
-  <a href="https://x.com/van_duy12643" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/van_duy12643?logo=twitter&style=for-the-badge" alt="van_duy12643" />
-  </a>
 </p>
 
 ## About me
@@ -21,10 +18,8 @@ Computer Science student from Vietnam. I focus on practical software, clean arch
 
 - [color-wars](https://github.com/Dyu20705/color-wars)
   Lightweight Python game project with clear module organization and iterative feature development.
-- [cli-tool](https://github.com/Dyu20705/cli-tool)
-  Python CLI project focused on command design, usability, and maintainable code structure.
 - [affect-state](https://github.com/Dyu20705/affect-state)
-  Python repository for experimentation and state-focused implementation patterns.
+  Private Vietnamese emotional support chat app with emotion detection, safe empathetic responses, and trend tracking.
 - [SmartSpender](https://github.com/Minh08012005/SmartSpender)
   Team-built personal expense management project with backend and integration collaboration.
 
@@ -32,89 +27,48 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 
 ## Tech stack
 
-### Languages
+### Production Core
 
+#### Core languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Data processing and warehousing
-
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Polars](https://img.shields.io/badge/Polars-1F6FEB?style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Parquet](https://img.shields.io/badge/Parquet-0F172A?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Google Cloud Storage](https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### ML research and experimentation
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=for-the-badge)
-![Optuna](https://img.shields.io/badge/Optuna-2A6AC8?style=for-the-badge)
-![JAX](https://img.shields.io/badge/JAX-EA4335?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-
-### ML systems and serving
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Feast](https://img.shields.io/badge/Feast-0B7285?style=for-the-badge)
+#### Platform and backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![KServe](https://img.shields.io/badge/KServe-326CE5?style=for-the-badge)
-![Triton Inference Server](https://img.shields.io/badge/Triton_Inference_Server-76B900?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
-
-### Orchestration and streaming
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge)
-![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-FF6A00?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Infrastructure and platform
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-EKS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Observability and delivery
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+#### MLOps and delivery
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+#### Production picks
+![Feast](https://img.shields.io/badge/Feast-0B7285?style=for-the-badge)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+#### Serving and cloud
+![vLLM](https://img.shields.io/badge/vLLM-111827?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Advanced/Research
+
+#### Research stack
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge)
+![Weights_&_Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Hugging_Face](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### LLM evaluation
+![Ragas](https://img.shields.io/badge/Ragas-0F172A?style=for-the-badge)
 
 ## Connect
 
 - LinkedIn: [duynguyenvan05](https://www.linkedin.com/in/duynguyenvan05)
-- X: [@van_duy12643](https://x.com/van_duy12643)
 - LeetCode: [Dyu20705](https://leetcode.com/u/Dyu20705/)
 - Stack Overflow: [duy-nguyen-van](https://stackoverflow.com/users/27902412/duy-nguy%E1%BB%85n-v%C4%83n)
-- Codeforces: [d2435acxx](https://codeforces.com/profile/d2435acxx)
-- YouTube: [@halc20705](https://www.youtube.com/@halc20705)
-- Discord: [Community link](https://discord.gg/DKR9Hzq9)
 
 ## GitHub stats
 
@@ -132,10 +86,10 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
   </tr>
 </table>
 
-## Professional snapshot
+## Projects (2027 - 2028)
 
-- Target role: ML Systems Engineer.
-- Focus: build, deploy, and operate reliable ML services and data pipelines in production.
-- Core strengths: model serving, feature/data pipelines, workflow orchestration, and observability.
-- Stack: Python, SQL, FastAPI, Docker, Kubernetes, Prefect, Airflow, Kafka, MLflow, and cloud (AWS/GCP/Azure).
-- Engineering style: clean architecture, testable components, reproducible workflows, and delivery ownership.
+1. madam-ex-agent (AI agent for company insights)
+- AI agent that surfaces company insights and risk signals to help candidates evaluate employers, avoid scam patterns, and choose better-fit companies with a structured rating system.
+
+2. x-open-app (AI reverse engineering)
+- Reverse engineering AI workflows, model behavior analysis, and explainable system mapping.
