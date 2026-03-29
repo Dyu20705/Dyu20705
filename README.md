@@ -118,12 +118,20 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 
 ## GitHub stats
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dyu20705&theme=github" alt="Top Languages by Repo" width="300" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Dyu20705&hide_border=true" alt="GitHub Streak Stats" width="300" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dyu20705&theme=github" alt="GitHub Stats" width="300" height="150" />
-</p>
+<table>
+  <tr>
+    <td width="33.33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dyu20705&theme=tokyonight" alt="Top Languages by Repo" width="100%" />
+    </td>
+    <td width="33.33%">
+      <img src="https://streak-stats.demolab.com?user=Dyu20705&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dyu20705&theme=tokyonight" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyu20705&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dyu20705&theme=tokyonight" alt="Profile Details Graph" width="100%" />
 </p>
