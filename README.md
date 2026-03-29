@@ -132,6 +132,10 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
   </tr>
 </table>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dyu20705&theme=tokyonight" alt="Profile Details Graph" width="100%" />
-</p>
+## Professional snapshot
+
+- Target role: ML Systems Engineer.
+- Focus: build, deploy, and operate reliable ML services and data pipelines in production.
+- Core strengths: model serving, feature/data pipelines, workflow orchestration, and observability.
+- Stack: Python, SQL, FastAPI, Docker, Kubernetes, Prefect, Airflow, Kafka, MLflow, and cloud (AWS/GCP/Azure).
+- Engineering style: clean architecture, testable components, reproducible workflows, and delivery ownership.
