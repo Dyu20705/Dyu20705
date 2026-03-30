@@ -42,6 +42,14 @@ jobs:
             git branch chore/waka-update
           fi
 
+      - name: Debug token permissions
+        shell: bash
+        run: |
+          echo "Authenticated user:"
+          curl -fsSL -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/user | jq -r .login
+          echo "Repo permission:"
+          curl -fsSL -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/repos/${{ github.repository }} | jq -r '.permissions'
+
       - name: Update README with WakaTime stats
         uses: anmol098/waka-readme-stats@master
         with:
