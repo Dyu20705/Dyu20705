@@ -10,7 +10,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   update-readme:
@@ -35,13 +34,6 @@ jobs:
             exit 1
           fi
 
-      - name: Ensure push branch exists locally
-        shell: bash
-        run: |
-          if ! git show-ref --verify --quiet refs/heads/chore/waka-update; then
-            git branch chore/waka-update
-          fi
-
       - name: Debug token permissions
         shell: bash
         run: |
@@ -56,9 +48,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Must be a Personal Access Token secret, not the default GITHUB_TOKEN
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Push to a separate branch then open/update PR to avoid direct-push protection on main
-          PUSH_BRANCH_NAME: "chore/waka-update"
-          PULL_BRANCH_NAME: "main"
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
