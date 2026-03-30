@@ -25,6 +25,14 @@ Computer Science student from Vietnam. I focus on practical software, clean arch
 
 See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 
+## Projects (2027 - 2028)
+
+1. madam-ex-agent (AI agent for company insights)
+- AI agent that surfaces company insights and risk signals to help candidates evaluate employers, avoid scam patterns, and choose better-fit companies with a structured rating system.
+
+2. x-open-app (AI reverse engineering)
+- Reverse engineering AI workflows, model behavior analysis, and explainable system mapping.
+
 ## Tech stack
 
 ### Production Core
@@ -86,10 +94,5 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
   </tr>
 </table>
 
-## Projects (2027 - 2028)
-
-1. madam-ex-agent (AI agent for company insights)
-- AI agent that surfaces company insights and risk signals to help candidates evaluate employers, avoid scam patterns, and choose better-fit companies with a structured rating system.
-
-2. x-open-app (AI reverse engineering)
-- Reverse engineering AI workflows, model behavior analysis, and explainable system mapping.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
