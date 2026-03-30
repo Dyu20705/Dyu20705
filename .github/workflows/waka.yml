@@ -35,6 +35,13 @@ jobs:
             exit 1
           fi
 
+      - name: Ensure push branch exists locally
+        shell: bash
+        run: |
+          if ! git show-ref --verify --quiet refs/heads/chore/waka-update; then
+            git branch chore/waka-update
+          fi
+
       - name: Update README with WakaTime stats
         uses: anmol098/waka-readme-stats@master
         with:
