@@ -3,7 +3,10 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
+    # Chạy vào 00:00 mỗi ngày
     - cron: "0 0 * * *"
+  push:
+    branches: [ main, master ] # Tự cập nhật mỗi khi bạn push code mới
 
 permissions:
   contents: write
@@ -12,16 +15,26 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
+      - uses: actions/checkout@v3
+      
       - name: Update README with WakaTime stats
-        uses: athul/waka-readme@v0.2.0
+        uses: anmol001/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_30_days
-          SHOW_TOTAL: true
-          SHOW_TITLE: true
-          SHOW_TIME: true
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Có sẵn, không cần tạo thêm
+          
+          # Cấu hình hiển thị (Tối ưu cho dân kỹ thuật)
+          SHOW_OS: "true"                # Khoe việc bạn dùng Linux/WSL2/MacOS
+          SHOW_PROJECTS: "true"          # Hiển thị các project bạn đang làm (như SmartSpender)
+          SHOW_LANGUAGES_PER_REPO: "false"
+          SHOW_EDITORS: "true"           # Hiển thị VS Code, JetBrains...
+          SHOW_TIMEZONE: "true"
+          SHOW_LINES_OF_CODE: "true"     # Hiển thị tổng số dòng code đã viết
+          SHOW_SHORT_STATS: "false"
+          SHOW_LOC_CHART: "true"         # Biểu đồ dòng code theo thời gian
+          
+          # Giao diện (Phù hợp với Dark Mode)
+          SYMBOL_VERSION: "2"            # Dùng các thanh bar hiện đại hơn
+          TIME_RANGE: "all_time"         # Thống kê tổng thể sự nghiệp
+          LANG_COUNT: "10"               # Hiển thị top 10 ngôn ngữ
