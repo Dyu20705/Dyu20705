@@ -10,7 +10,7 @@ on:
 
 permissions:
   contents: write
-  user: read
+  pull-requests: write
 
 jobs:
   update-readme:
