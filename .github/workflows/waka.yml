@@ -43,4 +43,6 @@ jobs:
           SHOW_TIMEZONE: "true"
           SHOW_LINES_OF_CODE: "true"
           SHOW_LOC_CHART: "true"
+          # Avoid GitHub traffic API (/traffic/views) permission issues
+          SHOW_PROFILE_VIEWS: "false"
           SYMBOL_VERSION: "2"
