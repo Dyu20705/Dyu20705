@@ -19,6 +19,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Validate required secrets
+        shell: bash
+        run: |
+          if [ -z "${{ secrets.WAKATIME_API_KEY }}" ]; then
+            echo "::error::Missing secret WAKATIME_API_KEY"
+            exit 1
+          fi
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            echo "::error::Missing secret GH_TOKEN"
+            exit 1
+          fi
+
       - name: Update README with WakaTime stats
         uses: anmol098/waka-readme-stats@master
         with:
