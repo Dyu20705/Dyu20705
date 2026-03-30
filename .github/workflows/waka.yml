@@ -27,14 +27,11 @@ jobs:
           # Cấu hình hiển thị (Tối ưu cho dân kỹ thuật)
           SHOW_OS: "true"                # Khoe việc bạn dùng Linux/WSL2/MacOS
           SHOW_PROJECTS: "true"          # Hiển thị các project bạn đang làm (như SmartSpender)
-          SHOW_LANGUAGES_PER_REPO: "false"
           SHOW_EDITORS: "true"           # Hiển thị VS Code, JetBrains...
           SHOW_TIMEZONE: "true"
           SHOW_LINES_OF_CODE: "true"     # Hiển thị tổng số dòng code đã viết
-          SHOW_SHORT_STATS: "false"
           SHOW_LOC_CHART: "true"         # Biểu đồ dòng code theo thời gian
           
           # Giao diện (Phù hợp với Dark Mode)
           SYMBOL_VERSION: "2"            # Dùng các thanh bar hiện đại hơn
-          TIME_RANGE: "all_time"         # Thống kê tổng thể sự nghiệp
-          LANG_COUNT: "10"               # Hiển thị top 10 ngôn ngữ
+          
