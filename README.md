@@ -4,6 +4,9 @@ Computer Science student from Vietnam. I focus on practical software, clean arch
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=dyu20705&label=Profile%20views&color=0e75b6&style=flat" alt="dyu20705" />
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 ## About me
@@ -93,6 +96,3 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
     </td>
   </tr>
 </table>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
