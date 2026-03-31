@@ -5,8 +5,10 @@ on:
   schedule:
     # Runs daily at 00:00 UTC
     - cron: "0 0 * * *"
-  push:
-    branches: [main, master]
+
+concurrency:
+  group: waka-readme
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -34,26 +36,23 @@ jobs:
             exit 1
           fi
 
-      - name: Debug token permissions
-        shell: bash
-        run: |
-          echo "Authenticated user:"
-          curl -fsSL -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/user | jq -r .login
-          echo "Repo permission:"
-          curl -fsSL -H "Authorization: token ${{ secrets.GH_TOKEN }}" https://api.github.com/repos/${{ github.repository }} | jq -r '.permissions'
-
       - name: Update README with WakaTime stats
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Must be a Personal Access Token secret, not the default GITHUB_TOKEN
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "true"
-          SHOW_PROJECTS: "true"
-          SHOW_EDITORS: "true"
-          SHOW_TIMEZONE: "true"
-          SHOW_LINES_OF_CODE: "true"
-          SHOW_LOC_CHART: "true"
-          # Avoid GitHub traffic API (/traffic/views) permission issues
-          SHOW_PROFILE_VIEWS: "false"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_UPDATED_DATE: "False"
+          SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: "2"
