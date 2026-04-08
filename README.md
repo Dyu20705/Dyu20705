@@ -87,7 +87,7 @@ See more at: [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories)
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2018%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
