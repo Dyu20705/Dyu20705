@@ -4,8 +4,12 @@ Computer Science student from Vietnam. I care about practical software, thoughtf
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dyu20705&label=Profile%20views&color=0e75b6&style=flat" alt="dyu20705" />
-  <img src="http://img.shields.io/badge/Code%20Time-4%20hrs%2012%20mins-blue?style=flat" alt="Code Time" />
 </p>
+
+## Code Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## About me
 
