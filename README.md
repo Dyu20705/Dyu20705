@@ -6,9 +6,9 @@ Computer Science student from Vietnam who believes system should not just work, 
 
 See more at [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories).
 
-## Technical Blog
+## Technical Side
 
-[My Blog](Dyu20705.github.io)
+[MiSide](Dyu20705.github.io)
 
 ## Code Time
 
