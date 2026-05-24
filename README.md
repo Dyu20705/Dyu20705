@@ -1,12 +1,6 @@
 # Hi there 🤗
 
-Computer Science student from Vietnam interested in backend engineering, system design, networking, and developer tooling.
-I enjoy building local-first applications, CLI tools, and system-oriented projects with focus on reliability, maintainability, and clear architecture.
-
-## Tech Stack
-
-- Backend: REST APIs, CLI Development
-- Interests: System Design, Networking, Infrastructure, Developer Tooling
+Computer Science student from Vietnam who believes system should not just work, but be reliable, maintainable, and elegantly structured.
 
 ## Project
 
