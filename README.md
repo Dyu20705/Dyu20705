@@ -1,14 +1,6 @@
 # Hi there 🤗
 
-Computer Science student from Vietnam who believes system should not just work, but be reliable, maintainable, and elegantly structured.
-
-## Project
-
-See more at [github.com/Dyu20705](https://github.com/Dyu20705?tab=repositories).
-
-## Technical Side
-
-[MiSide](https://dyu20705.github.io/)
+[MyTechSide](https://dyu20705.github.io/)
 
 ## Code Time
 
