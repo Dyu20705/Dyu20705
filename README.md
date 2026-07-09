@@ -5,8 +5,9 @@
 ## Code Time
 
 <!--START_SECTION:waka-->
+[![Code Time](https://img.shields.io/badge/Code%20Time-206%20hrs%202%20mins-blue?style=flat)](https://wakatime.com/@Dyu20705)
 
- Last Updated on 2026-07-09 03:47:18  UTC
+_Last updated: 2026-07-09 03:49:23 UTC_
 <!--END_SECTION:waka-->
 
 ## GitHub stats
