@@ -9,6 +9,7 @@ on:
     branches:
       - main
     paths:
+      # Updating this workflow file triggers one README Code Time refresh.
       - ".github/workflows/waka.yml"
 
 concurrency:
